@@ -1,3 +1,6 @@
 # Hello-World
-My first test repo
-Hey...i do make some changes
+
+This is next new change
+I want to delete 2nd and 3rd line
+dfdafdf
+dfdfffdf
